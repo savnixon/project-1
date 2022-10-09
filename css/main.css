@@ -6,5 +6,9 @@
     display: flex;
         align-items: flex-end;
 }
-
+ 
+h1 {
+    color: white;
+    text-align: center;
+  }
 
