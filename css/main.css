@@ -1,14 +1,4 @@
 /* Place CSS styles here */
-div {
-    width: 300px;
-    border: 15px solid green;
-    padding: 50px;
-    margin: 20px;
-  }
-
-
-h1 {
-    color: rgb(0, 0, 0);
-    text-align: center;
-  }
-
+body {
+  background-color: dark grey;
+}
