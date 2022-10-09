@@ -1,14 +1,14 @@
 /* Place CSS styles here */
-.box-parent{
-    width: 100%;
-    display: block;
-    background-color: black;
-    display: flex;
-        align-items: flex-end;
-}
- 
+div {
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+  }
+
+
 h1 {
-    color: white;
+    color: rgb(0, 0, 0);
     text-align: center;
   }
 
