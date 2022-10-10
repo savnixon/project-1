@@ -15,6 +15,19 @@ body {
 body {
   background-color: black;
 }
-.p-color {
+
+body{
+  padding: 20px;
+  text-align: center;
+  text-emphasis-color: white;
+}
+
+h1,h2 {
   color: white;
 }
+
+<head>
+   <style>
+      .p {color:blue};
+   </style>
+</head>
