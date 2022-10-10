@@ -27,16 +27,10 @@ h1,h2,h3,h4,h5 {
 }
 
 a {
-  color: white;
+  color: blue;
 }
 
 li {
   color: white;
 }
 
-
-<head>
-   <style>
-      .p {color:blue};
-   </style>
-</head>
