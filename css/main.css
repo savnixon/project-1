@@ -41,6 +41,9 @@ li {
 a-href {
   color: white;
 }
+address {
+  color: #efefef;
+}
 
 img {
   text-align: center;
