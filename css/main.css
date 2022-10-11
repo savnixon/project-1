@@ -45,5 +45,6 @@ a-href {
 img {
   text-align: center;
   padding: 20px;
-  background-color: #efefef;
+  size-adjust: 20px;
+  background-color: grey;
 }
