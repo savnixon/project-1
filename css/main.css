@@ -43,7 +43,7 @@ a-href {
 }
 
 img {
-  padding: 2Opx;
-  text-align: center; 
+  text-align: center;
+  padding: 20px;
+  background-color: #efefef;
 }
-
